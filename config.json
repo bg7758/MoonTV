@@ -19,15 +19,6 @@
             "api": "https://tyyszy.com/api.php/provide/vod",
             "name": "天涯资源"
         },
-        "heimuer": {
-            "api": "https://json.heimuer.xyz/api.php/provide/vod",
-            "name": "木耳资源",
-            "detail": "https://heimuer.tv"
-        },
-        "wolong": {
-            "api": "https://wolongzyw.com/api.php/provide/vod",
-            "name": "卧龙资源"
-        },
         "dbzy": {
             "api": "https://dbzy.tv/api.php/provide/vod",
             "name": "豆瓣资源"
@@ -44,10 +35,6 @@
 			"api": "http://cj.rycjapi.com/api.php/provide/vod",
 			"name": "如意资源"
 		},
-        "yinghua": {
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-            "name": "樱花资源"
-        },
         "baidu": {
             "api": "https://api.apibdzy.com/api.php/provide/vod",
             "name": "百度资源"
@@ -71,10 +58,6 @@
         "zy360": {
             "api": "https://360zy.com/api.php/provide/vod",
             "name": "360资源"
-        },
-        "ikun": {
-            "api": "https://ikunzyapi.com/api.php/provide/vod",
-            "name": "iKun资源"
         }
     }
 }
